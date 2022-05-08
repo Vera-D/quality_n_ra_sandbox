@@ -14,7 +14,11 @@ This repo is an aid for thos interested in harmonizing product development activ
 
 ## US
 
-For an application register an account using user fees and download form 3514.
+A new device manufacturer introduce the FDA to their device before submitting a premarket application. A new device that provides more effective treatment or diagomsis of life-threatening or irreversibly debilitating diseases or conditions should be introduced through a [breakthrough device program](https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program) or use [SteP](https://www.fda.gov/medical-devices/how-study-and-market-your-device/safer-technologies-program-step-medical-devices). If granted, the FDA will prioritize review of subsequent submissions.
+
+For an application register an account using user fees and download [form 3514](https://www.fda.gov/about-fda/reports-manuals-forms/forms). 
+
+Medical device manufacturers should prepare suffient evidence of safety and effectiveness 
 
 ### Q-Submission
 
